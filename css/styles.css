@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+}
+.top-back-box{
+    height: 600px;
+    width: 100%;
+    background-color: lightgrey;
+}
+main{
+    width: 100%;
+    height: 1500px;
+    background-color: darkgray;
+}
+
+footer{
+    position: absolute;
+    width: 100%;
+    height: 150px;
+    background-color: green;
+}
