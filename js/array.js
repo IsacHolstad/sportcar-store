@@ -18,4 +18,5 @@ const cars = [{
     milesprgallon: "3.2 gal/100mi"
 }
 
-]
+];
+console.log(cars)
