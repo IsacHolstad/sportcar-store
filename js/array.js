@@ -16,7 +16,16 @@ const cars = [{
     wheeldrive: "RWD",
     fuel: "Gasoline",
     milesprgallon: "3.2 gal/100mi"
-}
+},
+{
+    name: "Porsche",
+    year: 2021,
+    model: "GT3 rs",
+    horsepower: 880,
+    wheeldrive: "RWD",
+    fuel: "Gasoline",
+    milesprgallon: "3.1 gal/100mi"
+},
 
 ];
 console.log(cars)
