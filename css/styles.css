@@ -14,5 +14,8 @@ body{
     width: 70px;
     padding: 15px;
 }
+main{
+    background-color: red;
+}
 
 
