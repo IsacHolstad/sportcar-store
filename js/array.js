@@ -26,6 +26,12 @@ const cars = [{
     fuel: "Gasoline",
     milesprgallon: "3.1 gal/100mi"
 },
+{
+    name: "Volvo",
+},
+{
+    name: "Bmw"
+}
 
 ];
 console.log(cars)
