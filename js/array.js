@@ -28,9 +28,22 @@ const cars = [{
 },
 {
     name: "Volvo",
+    year: 2022,
+    model: "Xc90",
+    horsepower: 380,
+    wheeldrive: "AWD",
+    fuel: "Hybrid",
+    milesprgallon: "0,4 gal/100mi"
+
 },
 {
     name: "Bmw"
+    year: 2016,
+    model: "330e",
+    horsepower: 270,
+    wheeldrive: "RWD",
+    fuel: "Hybrid",
+    milesprgallon: "0.4 gal/100mi"
 }
 
 ];
