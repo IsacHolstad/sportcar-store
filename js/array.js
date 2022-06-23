@@ -36,15 +36,7 @@ const cars = [{
     milesprgallon: "0,4 gal/100mi"
 
 },
-{
-    name: "Bmw"
-    year: 2016,
-    model: "330e",
-    horsepower: 270,
-    wheeldrive: "RWD",
-    fuel: "Hybrid",
-    milesprgallon: "0.4 gal/100mi"
-}
+
 
 ];
 console.log(cars)
