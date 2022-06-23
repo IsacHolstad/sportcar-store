@@ -40,3 +40,5 @@ const cars = [{
 
 ];
 console.log(cars)
+// array.js
+export default const cars = [];
